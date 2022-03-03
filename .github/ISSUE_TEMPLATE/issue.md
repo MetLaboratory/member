@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: 参加申請
+about: Met Lab への参加申請
 title: 参加申請
 labels: ''
 assignees: ''
@@ -10,7 +10,7 @@ assignees: ''
 # Issueテンプレート
 
 ## Twitterのリンク
-[@username](https://twitter.com/username "@username")
+[@username](https://twitter.com/username)
 
 ## Metさんとの関係
 Metさんとの関係を示すなにか
