@@ -2,8 +2,8 @@
 name: 参加申請
 about: Met Lab への参加申請
 title: 参加申請
-labels: ''
-assignees: ''
+labels: want to join
+assignees: Akirtn, yo-kanyukari
 
 ---
 
